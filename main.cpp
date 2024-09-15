@@ -11,8 +11,8 @@ using namespace std;
 
 int main() // changed orignal void main to int main for proper c++ standars
 {
-	char statement[100];
-	int op1, op2;
+	// char statement[100]; // commented out this isn't doing anything for the program
+	double op1, op2; 
 	char operation;
 	char answer="Y"
 	while (answer=='y')
