@@ -1,15 +1,15 @@
 /*
  * Calculator.cpp
  *
- *  Date: [Enter date]
- *  Author: [Your Name]
+ *  Date: 9/15
+ *  Author: Carter Nadain
  */
 
-#include <iostream>
+#include <iostream> // using for input and output 
 
 using namespace std;
 
-void main()
+int main() // changed orignal void main to int main for proper c++ standars
 {
 	char statement[100];
 	int op1, op2;
